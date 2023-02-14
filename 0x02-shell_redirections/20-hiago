@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 'c/C//'
+echo Chicago | sed 'c/C//'
